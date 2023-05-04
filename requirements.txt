@@ -2,5 +2,5 @@ numpy==1.21.6
 Pillow==9.5.0
 Requests==2.29.0
 streamlit==1.22.0
-torch==1.13.1
+torch==2.0.0
 transformers==4.28.1
