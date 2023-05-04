@@ -1,6 +1,6 @@
 # Captionify
 Captionify is a web application that generates a descriptive caption for an image using an encoder-decoder architecture. The application uses a pre-trained Transformer-based vision model (ViT) as an encoder and a pre-trained language model (GPT2) as a decoder to generate highly accurate captions for uploaded images or image URLs.
-## Uage
+## Usage
 To use Captionify, simply upload an image or enter an image URL on the web interface. The tool will then use the pre-trained models to generate a descriptive caption that accurately describes the contents of the image.
 ## Getting Started
 To install Captionify, simply clone this repository and install the necessary dependencies using pip:
