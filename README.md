@@ -20,11 +20,11 @@ This will launch the application on your local machine. You can then upload an i
 ## Architecture
 Captionify uses an encoder-decoder architecture to generate captions for images. The encoder is a pre-trained Transformer-based vision model (ViT) that encodes the input image into a sequence of feature vectors. The decoder is a pre-trained language model (GPT2) that generates a descriptive caption for the image based on the encoded features.
 ## Dependencies
--streamlit
--requests
--Pillow
--transformers
--torch
+- streamlit
+- requests
+- Pillow
+- transformers
+- torch
 ## References
 - This project is based on the Encoder-Decoder architecture and uses pre-trained models from the Hugging Face Transformers library.
 - The application was developed using Streamlit, an open-source app framework for Machine Learning and Data Science projects.
